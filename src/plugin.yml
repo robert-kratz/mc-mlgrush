@@ -1,0 +1,13 @@
+name: mlgrush
+    author: nachgesalzt
+    main: us.rjks.core.Main
+    version: 1.0.0
+    commands:
+      einrichten:
+      stats:
+      world:
+      leave:
+      l:
+      spawn:
+      spec:
+      map:
